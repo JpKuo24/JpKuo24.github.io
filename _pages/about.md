@@ -25,16 +25,16 @@ What is NEW?
 [More news](https://jpkuo24.github.io/)
 
 
-Selected Publications(a full list at [here](https://jpkuo24.github.io/publications/)) Services
+Selected Publications (a full list at [here](https://jpkuo24.github.io/publications/))
 ======
 [INFOCOM'23](https://infocom2023.ieee-infocom.org/), *OPA: One-Predict-All For Efficient Deployment* <br>
 <u>Junpeng Guo</u>, Shengqing Xia, and Chunyi Peng. <br>
 
 [IWQoS'22](https://iwqos2022.ieee-iwqos.org/), *VPPlus: Exploring the Potentials of Video Processing for Live Video Analytics at the Edge* <br> 
-<span style="text-decoration:underline;">Junpeng Guo</span>, Shengqing Xia, and Chunyi Peng.<br>
+<u>Junpeng Guo</u>, Shengqing Xia, and Chunyi Peng.<br>
 
-[HotMobile'21] *Towards Drone-Sourced Live Video Analytics via Adaptive-yet-Compatible Compression* <br>
-<Insert>Junpeng Guo</Insert> and Chunyi Peng. <br>
+[HotMobile'21](https://iwqos2022.ieee-iwqos.org/), *Towards Drone-Sourced Live Video Analytics via Adaptive-yet-Compatible Compression* <br>
+<u>Junpeng Guo</u> and Chunyi Peng. <br>
 
 Services
 ======
