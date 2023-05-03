@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 My research aims to build an efficient mobile vision system with edge-assisted live video analytics.
-I am interested in exploiting and developing a multi-disciplinary solution that incorporates computer vision, edge computing multimedia and machine learning to enhance the system's effectiveness and efficiency. 
+I am interested in exploiting and developing a multi-disciplinary solution that incorporates computer vision, edge computing, multimedia and machine learning to enhance the system's effectiveness and efficiency. 
 
 Currently, I am particular interested in the following problems:
 * Making mobile vision more efficient with more video compression
 * Enhancing DNN deployment efficiency in diverse use sceaniro
 
-Making mobile vision more efficient with more video compression
+Making Mobile Vision More Efficient with More Video Compression
 ----
 Given the fast development in computer vision, we orthogonally enforces more efficient compression for the specific vision inference tasks. It adapts to input contexts and significantly reduces the volume of video data without sacrificing visual inference accuracy (negligible
 impacts).
@@ -44,7 +44,7 @@ jointly adjust the resolution, QP, and frame rate during run-time. To demonstrat
 </div>
 
 
-Enhancing DNN deployment efficiency in diverse use sceaniro
+Enhancing DNN Deployment Efficiency in Diverse Use Sceaniro
 ----
 When presented with diverse mobile devices performing distinct application tasks that facilitate varying scenarios, we tailor DNN to enhance performance for each scenario with Once-For-All DNN training: Train one super network and search different sub-networks (subnet) to fit use scenario.
 <!--Customize DNN Deployment in Diverse Use Scenario-->
