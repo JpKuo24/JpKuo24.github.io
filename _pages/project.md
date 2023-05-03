@@ -13,7 +13,7 @@ I am interested in exploiting and developing a multi-disciplinary solution that 
 
 Currently, I am particular interested in the following problems:
 * Making mobile vision more efficient with more video compression
-* Enhancing DNN deployment efficiency in diverse use sceaniro
+* Enhancing DNN deployment efficiency in diverse use scenarios
 
 Making Mobile Vision More Efficient with More Video Compression
 ----
@@ -43,7 +43,7 @@ jointly adjust the resolution, QP, and frame rate during runtime. To demonstrate
 </div>
 
 
-Enhancing DNN Deployment Efficiency in Diverse Use Sceaniro
+Enhancing DNN Deployment Efficiency in Diverse Use Scenarios
 ----
 When presented with diverse mobile devices performing distinct application tasks in varying scenarios, we tailor the DNN to enhance performance for each scenario using Once-For-All DNN training. This involves training one super network and searching for different sub-networks (subnets) to fit the specific use case.
 <!--Customize DNN Deployment in Diverse Use Scenario-->
