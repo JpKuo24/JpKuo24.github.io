@@ -22,7 +22,7 @@ What is NEW?
 [04/2022](https://jpkuo24.github.io/) "VPPlus: Exploring the Potentials of Video Processing for Live Video Analytics at the Edge" is accepted by IWQoS'22. <br>
 [04/2021](https://jpkuo24.github.io/) I will server as a TPC for [S3 workshop at MobiCom 2021](http://www.people.vcu.edu/~barahoueipash/S3/S3.html). Please consider submitting your work! <br>
 
-[More news](https://jpkuo24.github.io/)
+<!--[More news](https://jpkuo24.github.io/)-->
 
 
 Selected Publications (a full list at [here](https://jpkuo24.github.io/publications/))
