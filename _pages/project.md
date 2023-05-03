@@ -44,9 +44,6 @@ jointly adjust the resolution, QP, and frame rate during run-time. We use vehicl
 </div>
 
 
-
-
-
 Enhancing DNN deployment efficiency in diverse use sceaniro
 ----
 When presented with diverse mobile devices performing distinct application tasks that facilitate varying scenarios, we tailor DNN to enhance performance for each scenario with Once-For-All DNN training: Train one super network and search different sub-networks (subnet) to fit use scenario.
@@ -60,3 +57,4 @@ novel approach of using the shallow subnet to test the water. The effectiveness 
 shallow subnet to accelerate the search of a deep subnet has been validated effective in image
 classification, one showcase application.</p>
 </div>
+
