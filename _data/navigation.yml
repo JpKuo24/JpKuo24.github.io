@@ -17,7 +17,7 @@ main:
     
   - title: "CV"
 #     url: /cv/
-    url: "https://github.com/JpKuo24/JpKuo24.github.io/blob/master/files/junpeng-cv-short.pdf"
+    url: /files/junpeng-cv-short.pdf
     
 #   - title: "Guide"
 #     url: /markdown/
