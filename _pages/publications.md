@@ -11,7 +11,7 @@ author_profile: true
 [IWQoS'22](https://iwqos2022.ieee-iwqos.org/), *VPPlus: Exploring the Potentials of Video Processing for Live Video Analytics at the Edge* <br> 
 <u>Junpeng Guo</u>, Shengqing Xia, and Chunyi Peng.<br>
 
-[Archive'21](https://arxiv.org/abs/2111.06263), *Towards live video analytics with on-drone deeper-yet-compatible compression* <br>
+[Archive'21](https://arxiv.org/abs/2111.06263), *Towards Live Video Analytics with On-drone Deeper-yet-Compatible Compression* <br>
 <u>Junpeng Guo</u> and Chunyi Peng. <br>
 
 [HotMobile'21](http://www.hotmobile.org/2021/), *Towards Drone-Sourced Live Video Analytics via Adaptive-yet-Compatible Compression* <br>
