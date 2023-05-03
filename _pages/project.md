@@ -17,8 +17,7 @@ Currently, I am particular interested in the following problems:
 
 Making Mobile Vision More Efficient with More Video Compression
 ----
-Given the fast development in computer vision, we orthogonally enforces more efficient compression for the specific vision inference tasks. It adapts to input contexts and significantly reduces the volume of video data without sacrificing visual inference accuracy (negligible
-impacts).
+Given the fast development in computer vision, we orthogonally enforces more efficient compression for the specific vision inference tasks. Our approach  adapts to input contexts and significantly reduces the volume of video data without sacrificing visual inference accuracy.
 <!--Compress Video without Compromising Analytical Accuracy-->
 
 #### DCC: Towards Live Video Analytics with On-Drone Deeper-yet-Compatible Compression
@@ -29,7 +28,7 @@ impacts).
         Your browser does not support the video tag.
     </video>
     <p style="margin-top: 40px;">DCC utilizes the drone-specific context and intermediate information obtained from object detection to
-jointly adjust the resolution, QP, and frame rate during run-time. To demonstrate its effectiveness, we take vehicle detection from the drone as a showcase example.</p>
+jointly adjust the resolution, QP, and frame rate during runtime. To demonstrate its effectiveness, we use vehicle detection from the drone as a showcase example.</p>
 </div>
 
 
@@ -46,7 +45,7 @@ jointly adjust the resolution, QP, and frame rate during run-time. To demonstrat
 
 Enhancing DNN Deployment Efficiency in Diverse Use Sceaniro
 ----
-When presented with diverse mobile devices performing distinct application tasks that facilitate varying scenarios, we tailor DNN to enhance performance for each scenario with Once-For-All DNN training: Train one super network and search different sub-networks (subnet) to fit use scenario.
+When presented with diverse mobile devices performing distinct application tasks in varying scenarios, we tailor the DNN to enhance performance for each scenario using Once-For-All DNN training. This involves training one super network and searching for different sub-networks (subnets) to fit the specific use case.
 <!--Customize DNN Deployment in Diverse Use Scenario-->
 
 #### OPA:One-Predict-All For Efficient Deployment
