@@ -28,7 +28,7 @@ impacts).
         <source src="../images/dcc.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <p><br>DCC utilizes the drone-specific context and intermediate information obtained from object detection to
+    <p style="margin-top: 40px;">DCC utilizes the drone-specific context and intermediate information obtained from object detection to
 jointly adjust the resolution, QP, and frame rate during run-time. We use vehicle detection from the drone as a showcase to show its effectiveness.</p>
 </div>
 
@@ -40,7 +40,7 @@ jointly adjust the resolution, QP, and frame rate during run-time. We use vehicl
         <source src="../images/vpplus.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <p><br>VPPlus takes a further step by expanding the configuration space that can be tuned
+    <p style="margin-top: 40px;">VPPlus takes a further step by expanding the configuration space that can be tuned
 during on-device processing for general object detection task. It generates proper feedback automatically to guide the joint
 tuning over more than 8 parameters.</p>
 </div>
