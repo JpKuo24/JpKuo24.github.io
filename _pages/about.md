@@ -40,5 +40,5 @@ Services
 ======
 * Reviewer, IEEE Transactions on Mobile Computing (TMC)
 * Reviewer, Computer Communications
-* Prgram Commitee, ACM S3 workshop 2021
+* Program Commitee, ACM S3 workshop 2021
 
