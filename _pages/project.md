@@ -18,25 +18,29 @@ Currently, I am particular interested in the following problems:
 
 Compress Video without Compromising Analytical Accuracy
 ----
-Given the fast development in computer vision, we orthogonally enforces more efficient compression for the specific vision inference tasks.It adapts to input contexts and significantly reduces the volume of video data without sacrificing visual inference accuracy (negligible
+Given the fast development in computer vision, we orthogonally enforces more efficient compression for the specific vision inference tasks. It adapts to input contexts and significantly reduces the volume of video data without sacrificing visual inference accuracy (negligible
 impacts).
+
+#### DCC: Towards Live Video Analytics with On-Drone Deeper-yet-Compatible Compression
 
 <div style="display: flex">
     <video width="320" height="240" controls style="float: left; margin-right: 10px;">
         <source src="../images/dcc.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <p>DCC utilizes the drone-specific context and intermediate information obtained from object detection to
+    <p><br>DCC utilizes the drone-specific context and intermediate information obtained from object detection to
 jointly adjust the resolution, QP, and frame rate during run-time. We use vehicle detection from the drone as a showcase to show its effectiveness.</p>
 </div>
 
+
+#### VPPlus: Exploring the Potentials of Video Processing for Live Video Analytics at the Edge
 
 <div style="display: flex">
     <video width="320" height="240" controls style="float: left; margin-right: 10px;">
         <source src="../images/vpplus.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <p>VPPlus takes a further step by expanding the configuration space that can be tuned
+    <p><br>VPPlus takes a further step by expanding the configuration space that can be tuned
 during on-device processing for general object detection task. It generates proper feedback automatically to guide the joint
 tuning over more than 8 parameters.</p>
 </div>
@@ -49,6 +53,7 @@ Customize DNN Deployment in Diverse Use Scenario
 ----
 When presented with diverse mobile devices performing distinct application tasks that facilitate varying scenarios, we tailor DNN to enhance performance for each scenario with Once-For-All DNN training: Train one super network and search different sub-networks (subnet) to fit use scenario.
 
+#### OPA:One-Predict-All For Efficient Deployment
 <div style="display: flex">
     <img src="../images/ofa_flow.png" alt="Your Image" width="300" style="float: left; margin-right: 10px;">
     <p>Instead of training a specialized DNN for each deployment scenario, we have developed a
