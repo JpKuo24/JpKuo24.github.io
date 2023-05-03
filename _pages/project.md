@@ -15,11 +15,11 @@ Currently, I am particular interested in the following problems:
 * Making mobile vision more efficient with more video compression
 * Enhancing DNN deployment efficiency in diverse use sceaniro
 
-<!--Compress Video without Compromising Analytical Accuracy-->
 Making mobile vision more efficient with more video compression
 ----
 Given the fast development in computer vision, we orthogonally enforces more efficient compression for the specific vision inference tasks. It adapts to input contexts and significantly reduces the volume of video data without sacrificing visual inference accuracy (negligible
 impacts).
+<!--Compress Video without Compromising Analytical Accuracy-->
 
 #### DCC: Towards Live Video Analytics with On-Drone Deeper-yet-Compatible Compression
 
@@ -47,10 +47,10 @@ jointly adjust the resolution, QP, and frame rate during run-time. We use vehicl
 
 
 
-<!--Customize DNN Deployment in Diverse Use Scenario-->
 Enhancing DNN deployment efficiency in diverse use sceaniro
 ----
 When presented with diverse mobile devices performing distinct application tasks that facilitate varying scenarios, we tailor DNN to enhance performance for each scenario with Once-For-All DNN training: Train one super network and search different sub-networks (subnet) to fit use scenario.
+<!--Customize DNN Deployment in Diverse Use Scenario-->
 
 #### OPA:One-Predict-All For Efficient Deployment
 <div style="display: flex">
