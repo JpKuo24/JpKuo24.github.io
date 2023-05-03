@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 My research aims to build an efficient mobile vision system with edge-assisted live video analytics.
-I am interested in exploiting and developing a multi-disciplinary solution that incorporates computer vision, edge computing multimedia and machine leanring to to enhance the system's effectiveness and efficiency. 
+I am interested in exploiting and developing a multi-disciplinary solution that incorporates computer vision, edge computing multimedia and machine learning to enhance the system's effectiveness and efficiency. 
 
 Currently, I am particular interested in the following problems:
 * Making mobile vision more efficient with more video compression
@@ -29,7 +29,7 @@ impacts).
         Your browser does not support the video tag.
     </video>
     <p style="margin-top: 40px;">DCC utilizes the drone-specific context and intermediate information obtained from object detection to
-jointly adjust the resolution, QP, and frame rate during run-time. We use vehicle detection from the drone as a showcase to show its effectiveness.</p>
+jointly adjust the resolution, QP, and frame rate during run-time. To demonstrate its effectiveness, we take vehicle detection from the drone as a showcase example.</p>
 </div>
 
 
