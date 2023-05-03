@@ -9,18 +9,18 @@ redirect_from:
 ---
 
 I am a Ph.D. candidate under the supervision of [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University.
-My research interests are in the interdisciplinary field of mobile computing and computer vision, with a foucs on building efficient mobile vision system. 
-Recently, I am working on autonomous and connected drones.
+My research interests are in the interdisciplinary field of mobile computing and computer vision, with a focus on building efficient mobile vision system. 
+Recently, I have been working on autonomous and connected drones. 
 
-Before joining Purdue, I received my master and bachalor degree in 2019 and 2017 from University of Michigan, Ann Arbor and Beijing University of Posts and Telecommunications (BUPT), respectively. 
+Before joining Purdue, I received my master's and bachalor's degree in 2019 and 2017 from University of Michigan, Ann Arbor and Beijing University of Posts and Telecommunications (BUPT), respectively. 
 
 What is NEW?
 ======
-[04/2023](https://jpkuo24.github.io/) Pass the preliminary examination.<br>
-[03/2023](https://jpkuo24.github.io/) Award a student travel grant for INFOCOM'23. See you in New York.<br>
+[04/2023](https://jpkuo24.github.io/) I passed the preliminary examination.<br>
+[03/2023](https://jpkuo24.github.io/) I am awarded the student travel grant to attend INFOCOM'23. See you in New York.<br>
 [12/2022](https://jpkuo24.github.io/) "OPA: One-Predict-All For Efficient Deployment" is accepted by INFOCOM'23. <br>
 [04/2022](https://jpkuo24.github.io/) "VPPlus: Exploring the Potentials of Video Processing for Live Video Analytics at the Edge" is accepted by IWQoS'22. <br>
-[04/2021](https://jpkuo24.github.io/) Will server as a TPC for [S3 workshop at MobiCom 2021](http://www.people.vcu.edu/~barahoueipash/S3/S3.html). Please consider submitting your work! <br>
+[04/2021](https://jpkuo24.github.io/) I will server as a TPC for [S3 workshop at MobiCom 2021](http://www.people.vcu.edu/~barahoueipash/S3/S3.html). Please consider submitting your work! <br>
 
 [More news](https://jpkuo24.github.io/)
 
