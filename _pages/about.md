@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate a under the supervision of [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University.
+I am a Ph.D. candidate under the supervision of [Prof. Chunyi Peng](https://www.cs.purdue.edu/homes/chunyi/) in Computer Science at Purdue University.
 My research interests are in the interdisciplinary field of mobile computing and computer vision, with a foucs on building efficient mobile vision system. 
 Recently, I am working on autonomous and connected drones.
 
