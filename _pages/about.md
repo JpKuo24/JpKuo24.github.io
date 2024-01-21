@@ -42,7 +42,8 @@ Shengqing Xia, <u>Junpeng Guo</u>, and Chunyi Peng. <br>
 
 Services
 ======
+* Reviewer, INFOCOM'24
 * Reviewer, IEEE Transactions on Mobile Computing (TMC)
 * Reviewer, Computer Communications
-* Program Commitee, ACM S3 workshop 2021
+* Program Committee, ACM S3 workshop 2021
 
