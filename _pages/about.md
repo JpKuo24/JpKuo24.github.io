@@ -16,8 +16,7 @@ Before joining Purdue, I received my master's and bachelor's degree in 2019 and 
 
 What is NEW?
 ======
-[01/2024](https://jpkuo24.github.io/) Two papers are accepted by HotMobile'24. Please check our first attempt for autonomous drone delivery to your door at [Youtube](https://www.youtube.
-com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac).  y<br>
+[01/2024](https://jpkuo24.github.io/) Two papers are accepted by HotMobile'24. Please check our first attempt for autonomous drone delivery to your door at [Youtube](https://www.youtube.com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac).  y<br>
 [04/2023](https://jpkuo24.github.io/) I passed the preliminary examination.<br>
 [03/2023](https://jpkuo24.github.io/) I am awarded the student travel grant to attend INFOCOM'23. See you in New York.<br>
 [12/2022](https://jpkuo24.github.io/) "OPA: One-Predict-All For Efficient Deployment" is accepted by INFOCOM'23. <br>
