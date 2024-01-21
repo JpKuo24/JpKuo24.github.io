@@ -12,10 +12,12 @@ I am a Ph.D. candidate under the supervision of [Prof. Chunyi Peng](https://www.
 My research interests are in the interdisciplinary field of mobile computing and computer vision, with a focus on building efficient mobile vision system. 
 Recently, I have been working on autonomous and connected drones. 
 
-Before joining Purdue, I received my master's and bachalor's degree in 2019 and 2017 from University of Michigan, Ann Arbor and Beijing University of Posts and Telecommunications (BUPT), respectively. 
+Before joining Purdue, I received my master's and bachelor's degree in 2019 and 2017 from University of Michigan, Ann Arbor and Beijing University of Posts and Telecommunications (BUPT), respectively. 
 
 What is NEW?
 ======
+[01/2024](https://jpkuo24.github.io/) Two papers are accepted by HotMobile'24. Please check our first attempt for autonomous drone delivery to your door at [Youtube](https://www.youtube.
+com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac).  y<br>
 [04/2023](https://jpkuo24.github.io/) I passed the preliminary examination.<br>
 [03/2023](https://jpkuo24.github.io/) I am awarded the student travel grant to attend INFOCOM'23. See you in New York.<br>
 [12/2022](https://jpkuo24.github.io/) "OPA: One-Predict-All For Efficient Deployment" is accepted by INFOCOM'23. <br>
