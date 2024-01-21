@@ -16,7 +16,7 @@ Before joining Purdue, I received my master's and bachelor's degree in 2019 and 
 
 What is NEW?
 ======
-[01/2024](https://jpkuo24.github.io/) Two papers are accepted by HotMobile'24. Please check our first attempt for autonomous drone delivery to your door at [Youtube](https://www.youtube.com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac).  y<br>
+[01/2024](https://jpkuo24.github.io/) Two papers are accepted by HotMobile'24. Please check our first attempt for autonomous drone delivery to your door at [Youtube](https://www.youtube.com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac). We will release the APK soon. <br>
 [04/2023](https://jpkuo24.github.io/) I passed the preliminary examination.<br>
 [03/2023](https://jpkuo24.github.io/) I am awarded the student travel grant to attend INFOCOM'23. See you in New York.<br>
 [12/2022](https://jpkuo24.github.io/) "OPA: One-Predict-All For Efficient Deployment" is accepted by INFOCOM'23. <br>
@@ -28,13 +28,16 @@ What is NEW?
 
 Selected Publications (a full list at [here](https://jpkuo24.github.io/publications/))
 ======
+[HotMobile'24](https://hotmobile.org/2024/),*SSS: Towards Autonomous Drone Delivery to Your Door Over House-Aware Semantics* <be>
+Shengqing Xia, <u>Junpeng Guo</u>, and Chunyi Peng. <br>
+
 [INFOCOM'23](https://infocom2023.ieee-infocom.org/), *OPA: One-Predict-All For Efficient Deployment* <br>
 <u>Junpeng Guo</u>, Shengqing Xia, and Chunyi Peng. <br>
 
 [IWQoS'22](https://iwqos2022.ieee-iwqos.org/), *VPPlus: Exploring the Potentials of Video Processing for Live Video Analytics at the Edge* <br> 
 <u>Junpeng Guo</u>, Shengqing Xia, and Chunyi Peng.<br>
 
-[HotMobile'21](https://iwqos2022.ieee-iwqos.org/), *Towards Drone-Sourced Live Video Analytics via Adaptive-yet-Compatible Compression* <br>
+[HotMobile'21](https://hotmobile.org/2021/), *Towards Drone-Sourced Live Video Analytics via Adaptive-yet-Compatible Compression* <br>
 <u>Junpeng Guo</u> and Chunyi Peng. <br>
 
 Services
