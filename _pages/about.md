@@ -29,7 +29,7 @@ What is NEW?
 
 Selected Publications (a full list at [here](https://jpkuo24.github.io/publications/))
 ======
-[HotMobile'24](https://hotmobile.org/2024/), *SSS: Towards Autonomous Drone Delivery to Your Door Over House-Aware Semantics* <be>
+[HotMobile'24](https://hotmobile.org/2024/), *SSS: Towards Autonomous Drone Delivery to Your Door Over House-Aware Semantics* <br>
 Shengqing Xia, <u>Junpeng Guo</u>, and Chunyi Peng. <br>
 
 [INFOCOM'23](https://infocom2023.ieee-infocom.org/), *OPA: One-Predict-All For Efficient Deployment* <br>
