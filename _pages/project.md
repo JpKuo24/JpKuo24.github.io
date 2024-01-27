@@ -18,7 +18,16 @@ Currently, I am particularly interested in the following problems:
 
 Building new emerging drone applications that involve multiple computer vision tasks
 ----
-
+<div style="display: flex">
+    <video width="320" height="240" controls style="float: left; margin-right: 10px;">
+        <source src="https://www.youtube.
+com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <p style="margin-top: 40px;"> we present our attempt to tackle the last-hundred-feet problem for autonomous drone delivery.We take a computer-vision based approach to progressively landing towards a convenient and safe drop-off point at all times (here, at the front/garage door). Specifically, we develop structural semantic segmentation (SSS), a new technique that leverages a single-family house structure to streamline and enhance semantic segmentation in the drop-to-door problem context.
+    </p>
+  
+</div>
 
 
 
@@ -31,11 +40,11 @@ Given the fast development in computer vision, we orthogonally enforce more effi
 
 <div style="display: flex">
     <video width="320" height="240" controls style="float: left; margin-right: 10px;">
-        <source src="https://www.youtube.
-com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac" type="video/mp4">
+        <source src="../images/dcc.mp4" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <p style="margin-top: 40px;"> we present our attempt to tackle the last-hundred-feet problem for autonomous drone delivery.We take a computer-vision-based approach to progressively landing towards a convenient and safe drop-off point at all times (here, at the front/garage door). Specifically, we develop structural semantic segmentation (SSS), a new technique that leverages a single-family house structure to streamline and enhance semantic segmentation in the drop-to door problem context</p>
+    <p style="margin-top: 40px;">DCC utilizes the drone-specific context and intermediate information obtained from object detection to
+jointly adjust the resolution, QP, and frame rate during runtime. To demonstrate its effectiveness, we use vehicle detection from the drone as a showcase example.</p>
 </div>
 
 
