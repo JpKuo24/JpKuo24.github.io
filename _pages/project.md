@@ -22,11 +22,10 @@ Building new emerging drone applications that involve multiple computer vision t
 #### SSS: Towards Autonomous Drone Delivery to Your Door Over House-Aware Semantics
 <div style="display: flex">
     <video width="320" height="240" controls style="float: left; margin-right: 10px;">
-        <source src="https://www.youtube.
-com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac" type="video/mp4">
+        <source src="https://www.youtube.com/watch?v=G6I9XzCyHFQ&list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac&index=2" type="video/mp4">
         Your browser does not support the video tag.
     </video>
-    <p style="margin-top: 40px;"> We present our attempt to tackle the last-hundred-feet problem for autonomous drone delivery. We take a computer-vision based approach to progressively landing towards a convenient and safe drop-off point at all times. We develop structural semantic segmentation (SSS), a new technique that leverages a single-family house structure to streamline and enhance semantic segmentation in the drop-to-door problem context.
+    <p style="margin-top: 40px;"> We present our attempt to tackle the last-hundred-feet problem for autonomous drone delivery. We take a semantic segmentation-based approach to progressively landing towards a convenient and safe drop-off point at all times. We leverage a single-family house structure to streamline and enhance semantic segmentation in the drop-to-door problem context.
     </p>
   
 </div>
