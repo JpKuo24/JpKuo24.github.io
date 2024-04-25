@@ -16,7 +16,7 @@ Before joining Purdue, I received my master's and bachelor's degree in 2019 and 
 
 What is NEW?
 ======
-[02/2024](https://jpkuo24.github.io/) We were honored to receive the Best Demo Award at ACM HotMobile'24. Thanks to my collaborator [Shengqing](https://shengqingxia.github.io/). Our [web-based demo](http://mssn.cs.purdue.edu/) is released.<br>
+[02/2024](https://jpkuo24.github.io/) We were honored to receive the Best Demo Award at ACM HotMobile'24. Thanks to my collaborator [Shengqing](https://shengqingxia.github.io/). Our [web-based demo](http://mssn5.cs.purdue.edu/) is released.<br>
 [01/2024](https://jpkuo24.github.io/) Our demo for autonomous drone delivery to your door is accepted by HotMobile'24. Please check our demo video at [Youtube](https://www.youtube.com/playlist?list=PLLzN69of2f9bD5ZfPYhDpkAv-Pz2zI7Ac). Our app is released at [Github](https://github.com/mssn/dd-demo/tree/main).<br>
 [01/2024](https://jpkuo24.github.io/) Two papers are accepted by HotMobile'24.<br>
 [04/2023](https://jpkuo24.github.io/) I passed the preliminary examination.<br>
